@@ -1,4 +1,4 @@
-# channels-integration-django
+# django-channels-integration
 ![51549342-3e3fc000-1e90-11e9-9bc8-8497e82f9c88.jpg](https://user-images.githubusercontent.com/9060759/51549342-3e3fc000-1e90-11e9-9bc8-8497e82f9c88.jpg)
 
 ## Getting started:

@@ -18,6 +18,11 @@ pipenv shell
 ```
 pipenv install
 ```
+### create environment variables:
+```
+Create a .env file in root directory by copying the .env.example file.
+After copying the contents, edit the SECRET_KEY with your respective secret key.
+```
 ### Start the server:
 ``` 
 python manage.py runserver

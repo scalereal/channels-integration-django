@@ -1,6 +1,10 @@
 # django-channels-integration
 ![51549342-3e3fc000-1e90-11e9-9bc8-8497e82f9c88.jpg](https://user-images.githubusercontent.com/9060759/51549342-3e3fc000-1e90-11e9-9bc8-8497e82f9c88.jpg)
 
+## Refer this blog
+```
+https://medium.com/@meet_patel/ab15c5f1cc0e
+```
 ## Getting started:
 ### Clone this repository:
 ```
